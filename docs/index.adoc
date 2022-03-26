@@ -1,0 +1,18 @@
+= Reservo : Web application to book hotel and conference rooms
+Hildeberto Mendonca <me@hildeberto.com>
+v0.0.0
+:doctype: book
+:pdf-page-size: LETTER
+:encoding: utf-8
+:toc: left
+:toclevels: 3
+:numbered:
+
+> Reservo is a Go web application to book hotel and conference rooms.
+
+:sectnums!:
+
+
+:sectnums:
+
+
